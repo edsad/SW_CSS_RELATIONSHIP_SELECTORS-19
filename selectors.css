@@ -1,0 +1,55 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: blue;
+}
+
+nav {
+  background-color: #fffacd;
+  border:dotted blue 1px;
+}
+
+nav li {
+  list-style-type: none;
+  margin: 5px 15px 0 5px;
+  display: inline-block;
+}
+
+.disabled {
+  color: grey;
+}
+
+.disabled a {
+  color: #8A2BE2;
+}
+
+.active {
+  color: yellow;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.promo {
+  font-weight: bold;
+  color: gold;
+}
+
+.wow {
+  border: solid red 1px;
+  border-radius: .5em .5em .5em .5em;
+}
+
+input[type="text"], input[type="tel"] {
+  height: 25px;
+}
+
+
+
